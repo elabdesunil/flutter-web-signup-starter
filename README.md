@@ -4,4 +4,4 @@
 
 # Walkthrough
 
-![app walkthrough]("simple signup.gif")
+![app walkthrough](simple signup.gif)
